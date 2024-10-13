@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 80%;
   margin: auto;
 }
 
@@ -24,9 +24,15 @@ body {
 }
 
 /* Media Queries */
-@media(max-width: 600px) {
+@media(max-width: 1000px) {
   .imgs {
     grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media(max-width: 600px) {
+  .imgs {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 
@@ -38,6 +44,7 @@ dialog {
   border: 0;
   border-radius: 0.6rem;
   box-shadow: 0 0 1em black;  
+  font-size: 18pt;
 }
 
 dialog:focus {outline:0;}
@@ -47,30 +54,21 @@ dialog::backdrop {
   background-color: rgba(0, 0, 0, 0.4);
 }
 
-
-
-#myDialog {
-  width: 90%;
-}
-
-#myDialog img, #myDialog p {
+dialog img, dialog footer {
   width:90% ;  
   display: block ;
   margin: auto ;
 }
 
-/* légende */
-#legende {
+dialog footer {
+  overflow-y: visible;
   text-align: left;
-  height : 8vh;
   padding-top : 1em;
-  font-size: 18pt;
 }
 
-#myDialog nav {
+dialog nav {
   width: 100%;
   text-align: center;
-  font-size: 18pt;
   color: white;
   background-color: slategrey;
   padding-bottom: 0.5em;
