@@ -29,12 +29,12 @@ const larray = [
     "Chaque cahier suivant s'accrochera aux fils reliant les deux cahiers précédant.",
     // 10
     "Une aiguille courbée est utilisée pour glisser le fil du cahier en cours sous le lien d'arrimage des deux " + 
-    "cahiers au dessus et ressortir aussitôt.",
+    "cahiers précédents et ressortir aussitôt.",
     // 11
     "Quand tous les cahiers sont reliés, ils sont mis sous presse, puis le dos est encollé pour une meilleure solidité",
     // 12
     "Plusieurs couches de colle vinylique blanche sont appliquées successivement. Cette colle restera souple et flexible, " +
-    "même après séchage. Son aspect est alors transparent.",
+    "même après séchage. Son aspect final est transparent.",
     // 13
     "L'ensemble des cahiers reliés composent le corps de l'ouvrage. Pour la mise au format 12x17 cm, qui est celui de " +
     "la bibliothèque rose, un cutter bien affuté peut remplacer un massicot.",
