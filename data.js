@@ -13,17 +13,17 @@ const larray = [
     "Les logiciels MacPaint et HyperCard furent nécessaires pour créer les illustrations, à partir d' " +
     "images en couleurs converties en N&B par un script en Python.",
     // 5
-    "WriteNow, MacPaint, HyperCard, tous ces logiciels, quasiment sans bug, furent écrits par des passionnés, " +
+    "WriteNow, MacPaint, HyperCard, tous ces logiciels quasiment sans bug furent écrits par des passionnés " +
     "aux allures de hippies, mais qui ont littéralement changé le monde.",
     // 6
-    "La couverture du livre a été composée avec Inkscape, un outil de dessin, puissant et gratuit, produisant " +
-    "des images vectorielles, que l'on peut donc réduire, agrandir, déformer sans perte de qualité.",
+    "La couverture du livre a été composée avec Inkscape, un outil de dessin puissant et gratuit produisant " +
+    "des images vectorielles que l'on peut donc réduire, agrandir, déformer sans perte de qualité.",
     // 7
     "WriteNow imprime dans un fichier Postscript (ancêtre du PDF), qui doit être converti en PDF avant " + 
     "l'impression. On obtient des cahiers de 16 pages, qu'il faut relier entre eux.",
     // 8
     "Chaque cahier de 16 pages est constitué de quatre feuilles A4 imprimées au recto et au verso, puis pliées en " + 
-    " leur milieu. La reliure va d'une part solidariser ces feuilles, mais aussi relier chaque cahier au suivant.",
+    " leur milieu. La reliure va solidariser ces feuilles et aussi relier chaque cahier au suivant.",
     // 9
     "On observe ici les boucles, préparées sur le premier cahier, pour l'arrimage du deuxième cahier. " +
     "Chaque cahier suivant s'accrochera aux fils reliant les deux cahiers précédents.",
