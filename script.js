@@ -4,6 +4,9 @@ const img = document.querySelectorAll('.imgs img');
 const opacity = 0.6;
 const legende = document.querySelector("#legende");
 
+// debug only
+// console.table(larray)
+
 // Dialog
 const dialog = document.getElementById("myDialog");
 

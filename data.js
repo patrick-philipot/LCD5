@@ -1,11 +1,11 @@
 const larray = [
     "",
     // 1
-    "Possédant un Macintosh SE en état de marche et n'aimant pas les traitements de texte moderne, "+ 
+    "Possédant un Macintosh SE en état de marche et n'aimant pas les traitements de texte modernes, "+ 
     "j'ai recherché un équivalent tournant sur ma vieille machine et j'ai découvert WriteNow.",
     // 2
     "WriteNow n'a pas cessé de m'étonner par sa rapidité et son ergonomie. Il disposait de toutes " + 
-    "les fonctionnalités que j'attendais et même plus. Je l'ai utilisé pour rédiger Le Club des Cinq en Égypte",
+    "les fonctionnalités que j'attendais et même plus. Je l'ai utilisé pour rédiger Le Club des Cinq en Égypte.",
     // 3
     "J'ai aussi, par commodité, souvent utilisé un émulateur du Macintosh SE, minivMac du site Gryphel, "+ 
     "sur mon MacBook Air, notamment dans le train. Le Macintosh SE est lourd, 8 kg ! (voir image suivante)",
@@ -25,24 +25,24 @@ const larray = [
     "Chaque cahier de 16 pages est constitué de quatre feuilles A4 imprimées au recto et au verso, puis pliées en " + 
     " leur milieu. La reliure va d'une part solidariser ces feuilles, mais aussi relier chaque cahier au suivant.",
     // 9
-    "On observe ici, les boucles préparées sur le premier cahier, qui permettront l'arrimage du deuxième cahier. " +
-    "Chaque cahier suivant s'accrochera aux fils reliant les deux cahiers précédant.",
+    "On observe ici les boucles, préparées sur le premier cahier, pour l'arrimage du deuxième cahier. " +
+    "Chaque cahier suivant s'accrochera aux fils reliant les deux cahiers précédents.",
     // 10
     "Une aiguille courbée est utilisée pour glisser le fil du cahier en cours sous le lien d'arrimage des deux " + 
     "cahiers précédents et ressortir aussitôt.",
     // 11
-    "Quand tous les cahiers sont reliés, ils sont mis sous presse, puis le dos est encollé pour une meilleure solidité",
+    "Quand tous les cahiers sont reliés, ils sont mis sous presse, puis le dos est encollé pour une meilleure solidité.",
     // 12
     "Plusieurs couches de colle vinylique blanche sont appliquées successivement. Cette colle restera souple et flexible, " +
     "même après séchage. Son aspect final est transparent.",
     // 13
-    "L'ensemble des cahiers reliés composent le corps de l'ouvrage. Pour la mise au format 12x17 cm, qui est celui de " +
-    "la bibliothèque rose, un cutter bien affuté peut remplacer un massicot.",
+    "L'ensemble des cahiers reliés compose le corps de l'ouvrage. Pour la mise au format 12x17 cm, qui est celui de " +
+    "la Bibliothèque Rose, un cutter bien affuté peut remplacer un massicot.",
     // 14
-    "La dernière étape consiste à coller le corps de l'ouvrage sur la couverture. Au final, tout compris, " +
-    "impression, pliage des cahiers, reliure, encollage du dos et pose du dos, 48 heures sont un minimum pour " +
-    "obtenir un exemplaire.",
+    "La dernière étape consiste à coller le corps de l'ouvrage dans la couverture. Au final, tout compris, " +
+    "impression, pliage des cahiers, reliure, encollage du dos et pose de la couverture, 48 heures sont un " +
+    "minimum pour obtenir un exemplaire.",
     // 15
     "Une carte accompagne le livre. Elle donne des informations sur la localisation d'un prétendu trésor et " +
-    "sert de marque-page. Le sens des hiéroglyphes est donné dans le livre. "  
+    "sert de marque-page. Le sens des hiéroglyphes est expliqué dans le livre. "  
 ];
