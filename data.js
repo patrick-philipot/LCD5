@@ -16,13 +16,13 @@ const larray = [
     "WriteNow, MacPaint, HyperCard, tous ces logiciels quasiment sans bug furent écrits par des passionnés " +
     "aux allures de hippies, mais qui ont littéralement changé le monde.",
     // 6
-    "La couverture du livre a été composée avec Inkscape, un outil de dessin puissant et gratuit produisant " +
+    "La couverture du livre a été réalisée avec Inkscape, un outil de dessin puissant et gratuit produisant " +
     "des images vectorielles que l'on peut donc réduire, agrandir, déformer sans perte de qualité.",
     // 7
     "WriteNow imprime dans un fichier Postscript (ancêtre du PDF), qui doit être converti en PDF avant " + 
     "l'impression. On obtient des cahiers de 16 pages, qu'il faut relier entre eux.",
     // 8
-    "Chaque cahier de 16 pages est constitué de quatre feuilles A4 imprimées au recto et au verso, puis pliées en " + 
+    "Chaque cahier de 16 pages est constitué de quatre feuilles A4 imprimées recto-verso, puis pliées en " + 
     " leur milieu. La reliure va solidariser ces feuilles et aussi relier chaque cahier au suivant.",
     // 9
     "On observe ici les boucles, préparées sur le premier cahier, pour l'arrimage du deuxième cahier. " +
@@ -43,6 +43,6 @@ const larray = [
     "impression, pliage des cahiers, reliure, encollage du dos et pose de la couverture, 48 heures sont un " +
     "minimum pour obtenir un exemplaire.",
     // 15
-    "Une carte accompagne le livre. Elle donne des informations sur la localisation d'un prétendu trésor et " +
+    "Une carte accompagne le livre. Elle donne des informations sur la localisation du trésor et " +
     "sert de marque-page. Le sens des hiéroglyphes est expliqué dans le livre. "  
 ];
